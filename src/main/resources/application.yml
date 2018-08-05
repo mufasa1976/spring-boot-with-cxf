@@ -1,0 +1,6 @@
+cxf:
+  path: /
+  servlet:
+    load-on-startup: 1
+  jaxrs:
+    component-scan: true
